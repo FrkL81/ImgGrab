@@ -1,0 +1,19 @@
+# Dependencias / build
+node_modules/
+dist/
+build/
+*.zip
+
+# Editores y SO
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Archivos locales / secretos
+.env
+.env.*
+*.local
+
+# No ignoramos assets/ ni icons/ (forman parte de la extensión)
