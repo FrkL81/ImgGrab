@@ -138,6 +138,9 @@ Este proyecto está bajo la licencia **MIT** — puedes usarlo, modificarlo y di
 
 ImgGrab es gratuito y de código abierto. Si te ahorra tiempo en tu día a día, considera invitarme un café:
 
+El botón abre el enlace en la pestaña actual\
+Clic derecho → Abrir enlace en nueva pestaña
+
 [![Apoyar en Gumroad](https://img.shields.io/badge/Apoyar_en-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black)](https://frkl81.gumroad.com/l/ImgGrab "Clic derecho → Abrir enlace en nueva pestaña")
 
 ---
