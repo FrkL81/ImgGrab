@@ -16,4 +16,7 @@ Thumbs.db
 .env.*
 *.local
 
+# Backups locales
+*.backup
+
 # No ignoramos assets/ ni icons/ (forman parte de la extensión)

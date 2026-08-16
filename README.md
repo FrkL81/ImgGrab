@@ -138,7 +138,9 @@ Este proyecto está bajo la licencia **MIT** — puedes usarlo, modificarlo y di
 
 ImgGrab es gratuito y de código abierto. Si te ahorra tiempo en tu día a día, considera invitarme un café:
 
-[![Apoyar en Gumroad](https://img.shields.io/badge/Apoyar_en-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black)](https://frkl81.gumroad.com/l/ImgGrab)
+<a href="https://frkl81.gumroad.com/l/ImgGrab" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Apoyar_en-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Apoyar en Gumroad">
+</a>
 
 ---
 
